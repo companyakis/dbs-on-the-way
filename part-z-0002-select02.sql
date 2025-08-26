@@ -1,1 +1,3 @@
-select city, country_id from locations
+select city, country_id 
+  
+from locations
